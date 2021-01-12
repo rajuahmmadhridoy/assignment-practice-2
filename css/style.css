@@ -1,0 +1,37 @@
+
+
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background: #fff;
+    border: 0;
+}
+.categories > img{
+    width: 80%;
+}
+.panda-slide .carousel-item{
+    background: #fceae8;
+    border-radius: 1mm;
+}
+
+
+
+
+/* Media-quare */
+@media (max-width: 992px){
+
+
+button.navbar-toggler {
+    /* display: none; */
+}
+.col-md-4{
+    padding: 0 5px;
+}
+.wbs img {
+    width: 55%;
+}
+
+
+
+}
